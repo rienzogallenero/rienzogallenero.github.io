@@ -1,3 +1,17 @@
 body {
-	background-image: http://data.whicdn.com/images/65932391/original.png;
+	background-image: url("http://data.whicdn.com/images/65932391/original.png");
+	position: center;
+}
+
+p {
+	background-color: white;
+	font-family: "Verdana", "Times New Roman";
+	font-size: large;
+	color: #330000;
+	padding: 10px;
+	margin-right: 60%;
+}
+
+.container {
+	left: 50%;
 }
